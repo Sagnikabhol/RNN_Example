@@ -1,2 +1,2 @@
 # RNN_Example
-This project demonstrates a basic sequence prediction model using a Simple Recurrent Neural Network (RNN) in TensorFlow and Keras.  Functionality:  The model is trained to predict the next number in a sequence. For example, given the input sequence [1, 2, 3], the model will learn to predict 4. 
+This project demonstrates a simple Recurrent Neural Network (RNN) using TensorFlow and Keras. It predicts the next number in a sequence using a trained RNN model. The model is trained on sequences of three numbers and predicts the fourth number. This example provides a basic understanding of RNNs for sequence prediction. #RNN #TensorFlow #Keras #DeepLearning 
